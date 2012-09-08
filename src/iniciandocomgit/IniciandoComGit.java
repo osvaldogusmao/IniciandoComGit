@@ -7,6 +7,8 @@ package iniciandocomgit;
 /**
  *
  * @author anderson
+ *
+ * Alterado classe IniciandoComGit
  */
 public class IniciandoComGit {
 
